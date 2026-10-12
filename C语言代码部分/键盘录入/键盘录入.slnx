@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="键盘录入/键盘录入.vcxproj" Id="d60258c7-7fcd-40f6-90e1-13ebef6c2134" />
+</Solution>

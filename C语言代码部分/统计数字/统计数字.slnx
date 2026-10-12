@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="统计数字/统计数字.vcxproj" Id="69a88c87-a238-48ea-bb40-d28e5fe6bfcf" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="判断数据是否为2的幂次方/判断数据是否为2的幂次方.vcxproj" />
+</Solution>

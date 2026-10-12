@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="隐式转换与强制转换/隐式转换与强制转换.vcxproj" />
+</Solution>

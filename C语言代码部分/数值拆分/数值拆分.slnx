@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="数值拆分/数值拆分.vcxproj" Id="9a7bbe5a-8498-49a4-8ea2-236428626c86" />
+</Solution>
